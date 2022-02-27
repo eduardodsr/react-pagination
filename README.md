@@ -15,7 +15,9 @@
 
 React component para buscar os Following do meu GitHub.
 
-Acesse a minha página [aqui](https://github.com/eduardodsr)
+Acesse a minha página [aqui](https://github.com/eduardodsr "github.com/eduardodsr ")
+
+Site do meu projeto [aqui](https://eduardodsr-react-pagination.netlify.app "netlify.app")
 
 
 <span id="tecnologias">
@@ -51,8 +53,9 @@ Comandos para **instalar** e **executar** o projeto
 
 ## Link
 
-- [Repo do Projeto](https://github.com/eduardodsr/react-pagination/ "Pagination Repo")
+- [Repo do Projeto GitHub](https://github.com/eduardodsr/react-pagination/ "Pagination Repo")
 
+- [Repo Netlify Pagination](https://eduardodsr-react-pagination.netlify.app "Pagination")
 
 
 <span id="autor">
