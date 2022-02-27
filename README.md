@@ -42,7 +42,7 @@ Comandos para **instalar** e **executar** o projeto
 
     * <code>npm install</code> Instalar as dependências do projeto
     * <code>npm start</code> Executar o projeto
-<br>
+
 * Utilizando o **Yarn**:
 
     * <code>yarn install</code> Instalar as dependências do projeto
