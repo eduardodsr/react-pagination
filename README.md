@@ -1,4 +1,4 @@
-<h1 align="center">Card Pagination</h1>
+<h1 align="center">React Pagination</h1>
 
 <p align="center"> |&nbsp;&nbsp;&nbsp; 
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
