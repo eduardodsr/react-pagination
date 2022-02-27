@@ -10,6 +10,7 @@
 
 
 <span id="projeto">
+
 ## Projeto
 
 React component para buscar os Following do meu GitHub.
@@ -18,6 +19,7 @@ Acesse a minha página [aqui](https://github.com/eduardodsr)
 
 
 <span id="tecnologias">
+
 ## Tecnologias
 
 - ReactJS
@@ -29,9 +31,10 @@ Acesse a minha página [aqui](https://github.com/eduardodsr)
 
 
 <span id="comandos">
+
 ## Comandos 
 
-Comandos para instalar e executar o projeto
+Comandos para **instalar** e **executar** o projeto
 
 * Utilizando o **NPM**:
 
@@ -45,9 +48,10 @@ Comandos para instalar e executar o projeto
 
 
 <span id="link">
+
 ## Link
 
-- [Repo do Projeto](https://github.com/eduardodsr/ "Pagination Repo")
+- [Repo do Projeto](https://github.com/eduardodsr/react-pagination/ "Pagination Repo")
 
 
 
