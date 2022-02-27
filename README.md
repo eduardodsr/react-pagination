@@ -38,13 +38,13 @@ Comandos para **instalar** e **executar** o projeto
 
 * Utilizando o **NPM**:
 
-    <code>npm install</code> Instalar as dependências do projeto
-    <code>npm start</code> Executar o projeto
+    * <code>npm install</code> Instalar as dependências do projeto
+    * <code>npm start</code> Executar o projeto
 <br>
 * Utilizando o **Yarn**:
 
-    <code>yarn install</code> Instalar as dependências do projeto
-    <code>yarn start</code> Executar o projeto
+    * <code>yarn install</code> Instalar as dependências do projeto
+    * <code>yarn start</code> Executar o projeto
 
 
 <span id="link">
@@ -56,6 +56,7 @@ Comandos para **instalar** e **executar** o projeto
 
 
 <span id="autor">
+
 ## Autor
 
 <div align="rigth">
@@ -64,10 +65,10 @@ Comandos para **instalar** e **executar** o projeto
   </a>
 </div>
 
-* ` Desenvolvedor: ` Eduardo da Silva Rodrigues
+  * ` Dev: ` Eduardo da Silva Rodrigues
   
-* ` GitHub: ` [eduardodsr](https://www.github.com/eduardodsr)
+  * ` GitHub: ` [github.com/eduardodsr](https://www.github.com/eduardodsr)
  
-* ` E-mail: ` <eduardodsr@gmail.com> 
+  * ` E-mail: ` <eduardodsr@gmail.com> 
 
     
