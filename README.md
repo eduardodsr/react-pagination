@@ -15,7 +15,7 @@
 
 React component para buscar os Following do meu GitHub.
 
-Acesse a minha página [aqui](https://github.com/eduardodsr "github.com/eduardodsr ")
+Acesse a minha página [aqui](https://github.com/eduardodsr/react-pagination/ "github.com/eduardodsr")
 
 Site do meu projeto [aqui](https://eduardodsr-react-pagination.netlify.app "netlify.app")
 
